@@ -1,5 +1,5 @@
 .d_topbar {
-  height: 4rem;
+  height: 80px;
   background-color: var(--surface-a);
   width: 100%;
   display: flex;
@@ -14,7 +14,7 @@
 }
 .logo {
   display: flex;
-  height: 4rem;
+  height: 80px;
   width: calc(250px - 1rem);
   align-items: center;
   justify-content: center;
